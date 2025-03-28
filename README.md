@@ -1,7 +1,7 @@
 # **Explorando Inteligência Artificial para Ler Imagens**  
 
 ## **Sobre o Desafio**  
-Este projeto foi um desafio onde testei ferramentas de **Inteligência Artificial (IA)** para **"ler" imagens** e transformar o que está escrito nelas em texto digital. A ideia é ver como a tecnologia pode entender informações de fotos, documentos ou qualquer outra imagem com palavras.  
+Este projeto foi um desafio onde testei ferramentas de **Inteligência Artificial (IA)** para **"ler" imagens** e transformar o que está escrito nelas em texto. A ideia é ver como a tecnologia pode entender informações de fotos, documentos ou qualquer outra imagem com palavras.  
 
 ## **Passo a Passo do Processo**  
 
